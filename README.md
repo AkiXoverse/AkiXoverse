@@ -5,7 +5,7 @@ pip install a-life
 
 <a href="https://discord.gg/UDfBDeVMpU" target="_blank"> <img src="https://discord.com/api/guilds/907732412090425354/widget.png?style=shield" alt="shield.png"></a>
 
-📩・**Vous-voulez nous contacter ? Venez sur mon [Discord](https://discord.gg/UDfBDeVMpU) ou ajoutez moi : Akii#8792**
+📩・**Vous-voulez me contacter ? Venez sur mon [Discord](https://discord.gg/UDfBDeVMpU) ou ajoutez moi : Akii#8792**
 </a></p>
 🌐・**Website: Soon...**
 <h3 style="font-family:verdana" align="left">Languages que je connais/ai de l'expérience :</h3>
